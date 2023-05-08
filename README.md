@@ -30,9 +30,9 @@ The following are the keyboard keys and their corresponding drum sounds:
 - S: Crash
 - D: Kick
 - F: Tom
-- G: Ride
-- H: Hi-hat
-- J: Floor tom
+- J: Ride
+- K: Hi-hat
+- L: Floor tom
 
 ## Contributing
 
